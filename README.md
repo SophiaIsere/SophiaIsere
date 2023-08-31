@@ -1,6 +1,6 @@
 # Hi there, I'm Sophia Isere! 👋
 
-Welcome to my GitHub profile. I hope you stick around!😊
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EC610&width=435&lines=welcome+to+my+Github+profile!!;I+hope+you+stick+around.%F0%9F%98%8A)](https://git.io/typing-svg)
 
 I'm a self-driven learner on a journey to become a skilled Data Analyst. I believe in the power of data to uncover insights, drive decisions, tell meaningful stories and save cost!.
 
