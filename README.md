@@ -14,7 +14,7 @@ I'm a self-driven learner on a journey to become a skilled Data Analyst. I belie
 ## Projects
 
 I'm enthusiastic about putting my skills into practice through real-world projects. Here are a few projects I've been working on:
-
+_(please see repository section)_
   
 ## Goals
 
